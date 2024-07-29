@@ -1,7 +1,7 @@
 body {
-  margin: 10% 20%;
-  background: #444444;
-  color: white;
+  
+  background: #4c6590;
+  color: black;
   font-family: Arial, Helvetica, sans-sarif
    
 }
@@ -9,6 +9,17 @@ body {
   text-align: center; 
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
-  background: black;
+  background: #3C6B56;
   border-bottom: 1px solid #dddddd;
+}
+
+h4{text-align: center; 
+  font-size: 18px
+}
+
+h5{font-size:16px;
+  }
+
+h6{
+  font-size: 18px;
 }
