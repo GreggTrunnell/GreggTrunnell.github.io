@@ -9,11 +9,12 @@ body {
   text-align: center; 
   text-transform: uppercase;
   border-top: 1px solid #dddddd;
-  background: #3C6B56;
+  background:#854228;
   border-bottom: 1px solid #dddddd;
 }
 
 h4{text-align: center; 
+  background: #3C6B56 ;
   font-size: 18px
 }
 
